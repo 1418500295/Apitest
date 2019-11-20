@@ -1,0 +1,20 @@
+2019.11.20 at 18:19:16 CST INFO  com.toutiao.utils.ConfigFile 14 getUrl - http://api.toutiao.353386.com
+2019.11.20 at 18:19:16 CST INFO  com.toutiao.utils.ConfigFile 14 getUrl - http://api.toutiao.353386.com
+2019.11.20 at 18:19:16 CST INFO  com.toutiao.utils.ConfigFile 14 getUrl - http://api.toutiao.353386.com
+2019.11.20 at 18:19:16 CST DEBUG org.apache.ibatis.logging.LogFactory 135 setImplementation - Logging initialized using 'class org.apache.ibatis.logging.slf4j.Slf4jImpl' adapter.
+2019.11.20 at 18:19:16 CST DEBUG org.apache.ibatis.datasource.pooled.PooledDataSource 316 forceCloseAll - PooledDataSource forcefully closed/removed all connections.
+2019.11.20 at 18:19:16 CST DEBUG org.apache.ibatis.datasource.pooled.PooledDataSource 316 forceCloseAll - PooledDataSource forcefully closed/removed all connections.
+2019.11.20 at 18:19:16 CST DEBUG org.apache.ibatis.datasource.pooled.PooledDataSource 316 forceCloseAll - PooledDataSource forcefully closed/removed all connections.
+2019.11.20 at 18:19:16 CST DEBUG org.apache.ibatis.datasource.pooled.PooledDataSource 316 forceCloseAll - PooledDataSource forcefully closed/removed all connections.
+2019.11.20 at 18:19:16 CST DEBUG org.apache.ibatis.transaction.jdbc.JdbcTransaction 136 openConnection - Opening JDBC Connection
+2019.11.20 at 18:19:16 CST DEBUG org.apache.ibatis.datasource.pooled.PooledDataSource 387 popConnection - Created connection 177140066.
+2019.11.20 at 18:19:16 CST DEBUG org.apache.ibatis.transaction.jdbc.JdbcTransaction 100 setDesiredAutoCommit - Setting autocommit to false on JDBC Connection [com.mysql.jdbc.JDBC4Connection@a8ef162]
+2019.11.20 at 18:19:16 CST DEBUG org.apache.ibatis.logging.jdbc.BaseJdbcLogger 159 debug - ==>  Preparing: select * from LoginCase where id = ?; 
+2019.11.20 at 18:19:16 CST DEBUG org.apache.ibatis.logging.jdbc.BaseJdbcLogger 159 debug - ==> Parameters: 2(Integer)
+2019.11.20 at 18:19:16 CST DEBUG org.apache.ibatis.logging.jdbc.BaseJdbcLogger 159 debug - <==      Total: 1
+2019.11.20 at 18:19:16 CST INFO  com.toutiao.cases.LoginTest 54 getDemo - 数据读取成功
+2019.11.20 at 18:52:09 CST DEBUG org.apache.ibatis.logging.LogFactory 135 setImplementation - Logging initialized using 'class org.apache.ibatis.logging.slf4j.Slf4jImpl' adapter.
+2019.11.20 at 18:52:09 CST DEBUG org.apache.ibatis.datasource.pooled.PooledDataSource 316 forceCloseAll - PooledDataSource forcefully closed/removed all connections.
+2019.11.20 at 18:52:09 CST DEBUG org.apache.ibatis.datasource.pooled.PooledDataSource 316 forceCloseAll - PooledDataSource forcefully closed/removed all connections.
+2019.11.20 at 18:52:09 CST DEBUG org.apache.ibatis.datasource.pooled.PooledDataSource 316 forceCloseAll - PooledDataSource forcefully closed/removed all connections.
+2019.11.20 at 18:52:09 CST DEBUG org.apache.ibatis.datasource.pooled.PooledDataSource 316 forceCloseAll - PooledDataSource forcefully closed/removed all connections.

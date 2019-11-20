@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<suite name="api测试管理">
+    <test name="api测试用例">
+        <classes>
+            <class name="com.toutiao.cases.LoginTest">
+                <methods>
+                    <include name="getDemo"/>
+
+                </methods>
+
+            </class>
+
+        </classes>
+
+    </test>
+    <!--用来监听生成测试报告-->
+    <listeners>
+        <listener class-name="com.toutiao.config.ExtentTestNgIReporterListener"/>
+
+    </listeners>
+
+</suite>
